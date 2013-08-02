@@ -1,3 +1,5 @@
+This is no longer supported, but feel free to experiment with it
+
 # Dynamic Blogger Theme
 ## Inspired by Blogger's Dynamic Views
 
@@ -9,11 +11,6 @@ The theme includes:
   * Facebook Open Graph support
   * AJAX post loading
   * Post thumbnail support in sidebar
-
-## See it in action
-
-  * [PatHawks.com](http://www.pathawks.com)
-
 
 ## License
 
